@@ -6,7 +6,7 @@ A transparent theme for the new Facepunch forums found at https://forum.facepunc
 Add the theme to your user CSS on the preferences page:
 
 ```
-@import url('https://github.com/kurozael/trannysparent/blob/master/styles.css');
+@import url('https://raw.githubusercontent.com/kurozael/trannysparent/master/styles.css');
 ```
 
 ## Customizing
