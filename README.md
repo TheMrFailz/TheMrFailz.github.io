@@ -1,12 +1,12 @@
-# Facepunch Awfully Dark II: Even Darker
+# Facepunch Trannysparent Theme
 ## Description
-Dark theme for new Facepunch forums found at https://forum.facepunch.com/f/
+A transparent theme for the new Facepunch forums found at https://forum.facepunch.com/f/
 ## Installation
 
 Add the theme to your user CSS on the preferences page:
 
 ```
-@import url('https://pgsil.github.io/awfullydark2/styles.css');
+@import url('https://github.com/kurozael/trannysparent/blob/master/styles.css');
 ```
 
 ## Customizing
