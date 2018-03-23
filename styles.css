@@ -10,7 +10,7 @@
     --thread-bg-sticky2: rgba(255, 125, 125, 0.15);
     --thread-separator: #202020;
     --text-color: #dadada;
-    --text-dim-color: #b3b3b3;
+    --text-dim-color: #c5c5c5;
     --gold: rgba(252, 190, 32, 1);
     --darker: rgba(0, 0, 0, 0);
     --bg-opacity: 0;
@@ -329,8 +329,7 @@ body.page-forum .threadlistsection .threadblock .threadmain .threadtitle .thread
 
 #wrapper #content .threadlist .threadblock.is-sticky,
 #wrapper #content .threadlist .threadblock.is-sticky:hover {
-    background: var(--thread-bg-sticky);
-    color: var(--text-color);
+    color: #000;
     border-color: var(--darker);
 }
 
@@ -338,9 +337,8 @@ body.page-forum .threadlistsection .threadblock .threadmain .threadtitle .thread
 #wrapper #content .threadlist .threadblock.is-sticky .threadtitle .threadname,
 #wrapper #content .threadlist .threadblock.is-sticky .threadage,
 #wrapper #content .threadlist .threadblock.is-sticky .postcount {
-    color: var(--text-color) !important;
+    color: #000;
     border-color: var(--darker);
-    background: var(--thread-bg-sticky);
 }
 
 
@@ -615,3 +613,20 @@ body.page-forum .forumpanel {
 .forumevents span.timeago {
     color: var(--text-color);
 }
+
+#header .navbar-main.navbar.is-dark .navbar-end a.navbar-item {
+    color: #fff;
+}
+
+#header #toolbar .navbar-item .count-badge {
+    background: #fff;
+}
+
+.drawer-container>.drawer>.drawer-section>.drawer-content .change.change-positive {
+    color: #6aef6a;
+}
+
+#wrapper #content .threadlist .threadblock .threadmain .pagnationcomponent .page {
+    color: #000;
+}
+
