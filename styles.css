@@ -11,7 +11,8 @@
     --thread-separator: #397df3;
     --text-color: #ffffff;
     --text-color-alt: #ffffff;
-    --text-menu-sub-color: #fff;
+    --text-menu-sub-color: #090400;
+    --background-color: #ECE9D8;
     --text-dim-color: #e8e8e8;
     --gold: rgba(252, 190, 32, 1);
     --darker: rgba(0, 0, 0, 0);
@@ -39,9 +40,16 @@ html {
 
 #header .navbar-main.navbar.is-dark .navbar-end a.navbar-item {
     font-size: 0.7rem;
-    color: --text-menu-sub-color:;
+    color: --text-menu-sub-color;
     line-height: 1;
     padding: 0.2rem 0.5rem;
+}
+
+@media screen and (max-width: 1023px)
+.navbar-menu {
+    background-color: --background-color;
+    box-shadow: 0 8px 16px rgba(10,10,10,0.1);
+    padding: 0.5rem 0;
 }
 
 #forum {
