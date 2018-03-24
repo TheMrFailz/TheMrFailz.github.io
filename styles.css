@@ -10,6 +10,7 @@
     --thread-bg-sticky2: rgba(38, 96, 221, 0.8);
     --thread-separator: #397df3;
     --text-color: #ffffff;
+    --text-color-alt: #43A643;
     --text-dim-color: #e8e8e8;
     --gold: rgba(252, 190, 32, 1);
     --darker: rgba(0, 0, 0, 0);
@@ -73,7 +74,7 @@ strong {
 }
 
 #header #toolbar .navbar-item {
-    color: var(--text-color);
+    color: var(--text-color-alt);
 }
 
 #header #toolbar .navbar-item:hover:not(.is-breadcrumb) {
