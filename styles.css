@@ -10,7 +10,8 @@
     --thread-bg-sticky2: rgba(38, 96, 221, 1);
     --thread-separator: #397df3;
     --text-color: #ffffff;
-    --text-color-alt: #43A643;
+    --text-color-alt: #ffffff;
+    --text-menu-sub-color: #fff;
     --text-dim-color: #e8e8e8;
     --gold: rgba(252, 190, 32, 1);
     --darker: rgba(0, 0, 0, 0);
@@ -34,6 +35,13 @@ html {
     top: -55px;
     left: -4px;
     z-index: 10;
+}
+
+#header .navbar-main.navbar.is-dark .navbar-end a.navbar-item {
+    font-size: 0.7rem;
+    color: --text-menu-sub-color:;
+    line-height: 1;
+    padding: 0.2rem 0.5rem;
 }
 
 #forum {
