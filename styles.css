@@ -1,5 +1,5 @@
 :root {
-    --accent: rgba(255, 255, 255, 0.5);
+    --accent: rgba(255, 255, 255, 0.1);
     --accent-brighter: #3da8ff;
     --accent-hover: #003a69;
     --accent-text: #b95959;
@@ -7,7 +7,7 @@
     --thread-bg: rgba(0, 0, 0, 0);
     --thread-bg-read: #1c1c1c;
     --thread-bg-sticky: rgba(255, 255, 255, 0.15);
-    --thread-bg-sticky2: rgba(255, 125, 125, 0.15);
+    --thread-bg-sticky2: rgba(38, 96, 221, 0.8);
     --thread-separator: #202020;
     --text-color: #dadada;
     --text-dim-color: #c5c5c5;
