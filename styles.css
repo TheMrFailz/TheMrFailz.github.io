@@ -24,7 +24,7 @@ html::before {
 }
 
 p{
-    font-family: "Times New Roman", Times, serif;
+    
 }
 /*===== General =====*/
 
@@ -43,6 +43,7 @@ html {
 }
 
 #header .navbar-main.navbar.is-dark .navbar-end a.navbar-item {
+    font-family: "Times New Roman", Times, serif;
     font-size: 0.7rem;
     color: --text-menu-sub-color;
     line-height: 1;
