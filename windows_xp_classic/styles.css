@@ -4,7 +4,7 @@
     --accent-hover: #003a69;
     --accent-text: #b95959;
     --accent-secondary: #1cdcb0;
-    --thread-bg: rgba(0, 0, 0, 0);
+    --thread-bg: rgba(0, 0, 0, 1);
     --thread-bg-alt: rgba(0, 0, 0, 0);
     --thread-bg-read: #397df3;
     --thread-bg-sticky: rgba(38, 96, 221, 1);
@@ -13,7 +13,7 @@
     --text-color: #ffffff;
     --text-color-alt: #ffffff;
     --text-menu-sub-color: #090400;
-    --background-color: #004E98;
+    --background-color: #ECE9D8;
     --text-dim-color: #e8e8e8;
     --gold: rgba(252, 190, 32, 1);
     --darker: rgba(0, 0, 0, 0);
