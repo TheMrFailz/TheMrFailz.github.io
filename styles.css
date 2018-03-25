@@ -23,6 +23,9 @@ html::before {
     background-image: url(https://i.imgur.com/Or8QjsU.png);
 }
 
+p{
+    font-family: "Times New Roman", Times, serif;
+}
 /*===== General =====*/
 
 html {
