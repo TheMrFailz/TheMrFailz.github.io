@@ -56,17 +56,14 @@ html {
 
 #forum {
     background: var(--thread-bg);
-    font-family: cursive;
 }
 
 body {
-    font-family: cursive;
     color: var(--text-color);
 }
 
 a {
     color: var(--text-color);
-    font-family: cursive;
 }
 
 a:hover {
@@ -419,6 +416,7 @@ body.page-forum .forumpanel {
 
 .ql-editor,
 .ql-snow .ql-editor {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     color: var(--text-dim-color);
 }
 
