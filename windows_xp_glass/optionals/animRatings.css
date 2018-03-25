@@ -1,0 +1,24 @@
+.votebutton:hover {
+  animation: ratingDance 1s infinite;
+  filter: drop-shadow(0px 0px 3px #ffcc00);
+}
+
+.votes .votelist .voteinfo {
+  overflow: visible;
+}
+
+.postblock .postfoot .left .votebutton {
+  opacity: 0.8;
+}
+
+@keyframes ratingDance {
+  0% {
+    transform: rotate(15deg) scale(1);
+  }
+  50% {
+    transform: rotate(-15deg) scale(1.05);
+  }
+  100% {
+    transform: rotate(15deg) scale(1);
+  }
+}
