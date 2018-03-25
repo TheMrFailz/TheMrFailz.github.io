@@ -1,12 +1,12 @@
-# Facepunch Trannysparent Theme
+# Facepunch Windows XP (Transparent) theme
 ## Description
-A transparent theme for the new Facepunch forums found at https://forum.facepunch.com/f/
+A Glass-based Trannysparent-Derived theme for the Newpunch forums found at https://forum.facepunch.com/f/
 ## Installation
 
 Add the theme to your user CSS on the preferences page:
 
 ```
-@import url('https://kurozael.github.io/trannysparent/styles.css');
+@import url('https://TheMrFailz.github.io/windows_xp_glass/styles.css');
 ```
 
 ## Customizing
