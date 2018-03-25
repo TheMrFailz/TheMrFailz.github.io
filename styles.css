@@ -416,7 +416,7 @@ body.page-forum .forumpanel {
 
 .ql-editor,
 .ql-snow .ql-editor {
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Tahoma", "Geneva", sans-serif;
     color: var(--text-dim-color);
 }
 
